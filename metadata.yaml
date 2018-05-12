@@ -1,0 +1,29 @@
+_repo: Carriages--amp--CoachesTheir-History--amp--Their-Evolution_46216
+_version: 0.1.0
+alternative_title: 'Carriages and Coaches: Their History and Their Evolution'
+covers:
+- cover_type: archival
+  image_path: 46216-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Straus, Ralph
+    alias: Forbes, Robert Erstone
+    birthdate: 1882
+    deathdate: 1950
+    gutenberg_agent_id: '43662'
+    url: http://www.gutenberg.org/2009/agents/43662
+description: ''
+gutenberg_issued: '2014-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46216'
+  lccn: '13009767'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Carriages and carts'
+- !lcc 'GT'
+title: 'Carriages & Coaches: Their History & Their Evolution'
+url: http://www.gutenberg.org/ebooks/46216
